@@ -29,3 +29,5 @@ Model performance is assessed on the test set. Key evaluation metrics include:
 The notebook includes a small section demonstrating the model making a prediction on a new, single data point. The final deliverable is the **Jupyter Notebook**, showcasing the full implementation and evaluation results.
 
 # OUTPUT
+<img width="584" height="649" alt="Image" src="https://github.com/user-attachments/assets/54b1e969-f709-4393-8416-bd37b09303c0" />
+<img width="447" height="468" alt="Image" src="https://github.com/user-attachments/assets/44357a56-11a9-4d82-936a-79b51224911b" />
